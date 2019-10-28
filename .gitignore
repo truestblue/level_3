@@ -1,0 +1,5 @@
+bin/
+__init__.py
+include/
+lib/
+.Python
